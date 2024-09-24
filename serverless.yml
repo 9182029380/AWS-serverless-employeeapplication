@@ -2,7 +2,7 @@
 #app: aws-serverless-framework-app
 service: Employee-api
 
-frameworkVersion: '3'
+frameworkVersion: '4'
 
 provider:
   name: aws
